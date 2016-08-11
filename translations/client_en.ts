@@ -539,7 +539,7 @@
     <name>OCC::ConnectionValidator</name>
     <message>
         <location filename="../src/libsync/connectionvalidator.cpp" line="65"/>
-        <source>No ownCloud account configured</source>
+        <source>No NextCloud account configured</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1821,7 +1821,7 @@ It is not advisable to use it.</source>
     </message>
     <message>
         <location filename="../src/gui/owncloudsetupwizard.cpp" line="357"/>
-        <source>creating folder on ownCloud: %1</source>
+        <source>creating folder on NextCloud: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2378,7 +2378,7 @@ It is not advisable to use it.</source>
     </message>
     <message>
         <location filename="../src/gui/sharedialog.ui" line="47"/>
-        <source>ownCloud Path:</source>
+        <source>NextCloud Path:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2584,7 +2584,7 @@ It is not advisable to use it.</source>
     <message>
         <location filename="../src/gui/socketapi.cpp" line="453"/>
         <source>Share with %1</source>
-        <comment>parameter is ownCloud</comment>
+        <comment>parameter is NextCloud</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3082,7 +3082,7 @@ It is not advisable to use it.</source>
     </message>
     <message>
         <location filename="../src/libsync/theme.cpp" line="289"/>
-        <source>&lt;p&gt;Copyright ownCloud, Incorporated&lt;/p&gt;</source>
+        <source>&lt;p&gt;Copyright NextCloud, Incorporated&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3110,7 +3110,7 @@ It is not advisable to use it.</source>
     </message>
 </context>
 <context>
-    <name>OCC::ownCloudGui</name>
+    <name>OCC::NextCloudGui</name>
     <message>
         <location filename="../src/gui/owncloudgui.cpp" line="292"/>
         <source>Please sign in</source>
@@ -3304,10 +3304,10 @@ It is not advisable to use it.</source>
     </message>
 </context>
 <context>
-    <name>OCC::ownCloudTheme</name>
+    <name>OCC::NextCloudTheme</name>
     <message utf8="true">
         <location filename="../src/libsync/owncloudtheme.cpp" line="47"/>
-        <source>&lt;p&gt;Version %2. For more information visit &lt;a href=&quot;%3&quot;&gt;%4&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;By Klaas Freitag, Daniel Molkentin, Jan-Christoph Borchardt, Olivier Goffart, Markus Götz and others.&lt;/small&gt;&lt;/p&gt;&lt;p&gt;Copyright ownCloud, Inc.&lt;/p&gt;&lt;p&gt;Licensed under the GNU General Public License (GPL) Version 2.0&lt;br/&gt;ownCloud and the ownCloud Logo are registered trademarks of ownCloud, Inc. in the United States, other countries, or both.&lt;/p&gt;</source>
+        <source>&lt;p&gt;Version %2. For more information visit &lt;a href=&quot;%3&quot;&gt;%4&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;small&gt;By Klaas Freitag, Daniel Molkentin, Jan-Christoph Borchardt, Olivier Goffart, Markus Götz and others.&lt;/small&gt;&lt;/p&gt;&lt;p&gt;Copyright NextCloud, Inc.&lt;/p&gt;&lt;p&gt;Licensed under the GNU General Public License (GPL) Version 2.0&lt;br/&gt;NextCloud and the NextCloud Logo are registered trademarks of NextCloud, Inc. in the United States, other countries, or both.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3443,7 +3443,7 @@ It is not advisable to use it.</source>
     </message>
     <message>
         <location filename="../src/gui/owncloudsetuppage.ui" line="85"/>
-        <source>Enter the ownCloud username.</source>
+        <source>Enter the NextCloud username.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3453,7 +3453,7 @@ It is not advisable to use it.</source>
     </message>
     <message>
         <location filename="../src/gui/owncloudsetuppage.ui" line="102"/>
-        <source>Enter the ownCloud password.</source>
+        <source>Enter the NextCloud password.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3473,7 +3473,7 @@ It is not advisable to use it.</source>
     </message>
     <message>
         <location filename="../src/gui/owncloudsetuppage.ui" line="147"/>
-        <source>Enter the url of the ownCloud you want to connect to (without http or https).</source>
+        <source>Enter the url of the NextCloud you want to connect to (without http or https).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3661,7 +3661,7 @@ It is not advisable to use it.</source>
     </message>
 </context>
 <context>
-    <name>ownCloudTheme::about()</name>
+    <name>NextCloudTheme::about()</name>
     <message>
         <location filename="../src/libsync/theme.cpp" line="271"/>
         <source>&lt;p&gt;&lt;small&gt;Built from Git revision &lt;a href=&quot;%1&quot;&gt;%2&lt;/a&gt; on %3, %4 using Qt %5, %6&lt;/small&gt;&lt;/p&gt;</source>

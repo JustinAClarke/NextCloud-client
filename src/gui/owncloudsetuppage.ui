@@ -82,7 +82,7 @@
          <item row="0" column="1">
           <widget class="QLineEdit" name="leUsername">
            <property name="toolTip">
-            <string>Enter the ownCloud username.</string>
+            <string>Enter the NextCloud username.</string>
            </property>
           </widget>
          </item>
@@ -99,7 +99,7 @@
          <item row="1" column="1">
           <widget class="QLineEdit" name="lePassword">
            <property name="toolTip">
-            <string>Enter the ownCloud password.</string>
+            <string>Enter the NextCloud password.</string>
            </property>
            <property name="text">
             <string/>
@@ -144,7 +144,7 @@
      <item>
       <widget class="QLineEdit" name="leUrl">
        <property name="toolTip">
-        <string>Enter the url of the ownCloud you want to connect to (without http or https).</string>
+        <string>Enter the url of the NextCloud you want to connect to (without http or https).</string>
        </property>
       </widget>
      </item>

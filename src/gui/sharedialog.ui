@@ -44,7 +44,7 @@
         </font>
        </property>
        <property name="text">
-        <string>ownCloud Path:</string>
+        <string>NextCloud Path:</string>
        </property>
       </widget>
      </item>
