@@ -1,4 +1,8 @@
-# ownCloud Desktop Client
+# NextCloud Desktop Client
+
+I have Forked this so I am able to stop searching for the NextCloud desktop application on my Linux Machines.
+And to give the NextCloud community a desktop version for NextCloud specifically.
+
 
 | Job                               | State                                                                                                                                                             |
 |-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
