@@ -78,8 +78,8 @@ QVariant ownCloudTheme::customMedia(Theme::CustomMediaType type)
 {
     if (type == Theme::oCSetupTop) {
         // return QCoreApplication::translate("ownCloudTheme",
-        //                                   "If you don't have an ownCloud server yet, "
-        //                                   "see <a href=\"https://owncloud.com\">owncloud.com</a> for more info.",
+        //                                   "If you don't have an NextCloud server yet, "
+        //                                   "see <a href=\"https://nextcloud.com\">nextcloud.com</a> for more info.",
         //                                   "Top text in setup wizard. Keep short!");
         return QVariant();
     } else {
@@ -91,7 +91,7 @@ QVariant ownCloudTheme::customMedia(Theme::CustomMediaType type)
 
 QString ownCloudTheme::helpUrl() const
 {
-    return QString::fromLatin1("https://doc.owncloud.org/desktop/%1.%2/").arg(MIRALL_VERSION_MAJOR).arg(MIRALL_VERSION_MINOR);
+    return QString::fromLatin1("https://doc.nextcloud.org/desktop/%1.%2/").arg(MIRALL_VERSION_MAJOR).arg(MIRALL_VERSION_MINOR);
 }
 
 #ifndef TOKEN_AUTH_ONLY
@@ -114,12 +114,12 @@ QPixmap ownCloudTheme::wizardHeaderLogo() const
 
 QString ownCloudTheme::appName() const
 {
-    return QLatin1String("ownCloud");
+    return QLatin1String("NextCloud");
 }
 
 QString ownCloudTheme::appNameGUI() const
 {
-    return QLatin1String("ownCloud");
+    return QLatin1String("NextCloud");
 }
 
 
